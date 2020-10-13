@@ -1,0 +1,41 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "project_name": "List Pagination and Filtering",
+      "description": "Using unobtrusive JavaScript I added pagination to the site. It shows up to 10 students per page and allows a user to navigate with dynamically produced page links at bottom. I also added a search feature that allows the user to search for a specific student or students.",
+      "technologies": ["DOM Manipulation", "Javascript"],
+      "live_link": "link",
+      "github_link": "https://github.com/hinksonAndrew/fsjs_techdegree_project_2",
+      "image_urls": ["link1", "link2"]
+    },
+    {
+      "id": 2,
+      "project_name": "Interactive Form",
+      "description": "stuff",
+      "technologies": "stuff",
+      "live_link": "link",
+      "github_link": "https://github.com/hinksonAndrew/fsjs_techdegree_project_3",
+      "image_urls": ["link1", "link2"]
+    },
+    {
+      "id": 3,
+      "project_name": "OOP Game Show App",
+      "description": "stuff",
+      "technologies": "stuff",
+      "live_link": "link",
+      "github_link": "link",
+      "image_urls": ["link1", "link2"]
+    },
+    {
+      "id": 4,
+      "project_name": "Public API Requests",
+      "description": "stuff",
+      "technologies": "stuff",
+      "live_link": "link",
+      "github_link": "link",
+      "image_urls": ["link1", "link2"]
+    }
+
+  ]
+}
