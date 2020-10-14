@@ -7,7 +7,7 @@
       "technologies": ["DOM Manipulation", "Javascript"],
       "live_link": "link",
       "github_link": "https://github.com/hinksonAndrew/fsjs_techdegree_project_2",
-      "image_urls": ["link1", "link2"]
+      "image_urls": ["./static/img/project1_550x550.png"]
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "technologies": "stuff",
       "live_link": "link",
       "github_link": "https://github.com/hinksonAndrew/fsjs_techdegree_project_3",
-      "image_urls": ["link1", "link2"]
+      "image_urls": ["./static/img/project2_550x550.png", "link2"]
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "technologies": "stuff",
       "live_link": "link",
       "github_link": "link",
-      "image_urls": ["link1", "link2"]
+      "image_urls": ["./static/img/project3_550x550.png", "link2"]
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "technologies": "stuff",
       "live_link": "link",
       "github_link": "link",
-      "image_urls": ["link1", "link2"]
+      "image_urls": ["./static/img/project4_550x550.png", "link2"]
     }
 
   ]
