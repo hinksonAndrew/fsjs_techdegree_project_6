@@ -4,37 +4,37 @@
       "id": 1,
       "project_name": "List Pagination and Filtering",
       "description": "Using unobtrusive JavaScript I added pagination to the site. It shows up to 10 students per page and allows a user to navigate with dynamically produced page links at bottom. I also added a search feature that allows the user to search for a specific student or students.",
-      "technologies": ["DOM Manipulation", "Javascript"],
-      "live_link": "link",
+      "technologies": ["DOM Manipulation", "JavaScript", "CSS", "HTML"],
+      "live_link": "https://andrewhinkson.com/fsjs_techdegree_project_2/",
       "github_link": "https://github.com/hinksonAndrew/fsjs_techdegree_project_2",
-      "image_urls": ["./static/img/project1_550x550.png"]
+      "image_urls": ["/static/img/project1_550x550.png", "/static/img/project1_1200x550.png"]
     },
     {
       "id": 2,
       "project_name": "Interactive Form",
-      "description": "stuff",
-      "technologies": "stuff",
-      "live_link": "link",
+      "description": "This is an interactive from for a mock conference. It uses javascript to dynamically change the form depending on what options are selected, such as shirt design and job role. Also, the from will not let you select activities that are at the same time.",
+      "technologies": ["JavaScript", "DOM Manipulation", "CSS", "HTML"],
+      "live_link": "https://andrewhinkson.com/fsjs_techdegree_project_3/",
       "github_link": "https://github.com/hinksonAndrew/fsjs_techdegree_project_3",
-      "image_urls": ["./static/img/project2_550x550.png", "link2"]
+      "image_urls": ["/static/img/project2_550x550.png", "/static/img/project2_1200x550.png"]
     },
     {
       "id": 3,
       "project_name": "OOP Game Show App",
-      "description": "stuff",
-      "technologies": "stuff",
-      "live_link": "link",
-      "github_link": "link",
-      "image_urls": ["./static/img/project3_550x550.png", "link2"]
+      "description": "This is Phrase Hunter. It is an app that is similar to hangman where a phrase needs to be guessed before all their lives are lost. You can either click on the letters you want to try or use the keyboard for easier input. ",
+      "technologies": ["Object-Oriented Programming", "JavaScript", "HTML", "CSS"],
+      "live_link": "https://andrewhinkson.com/fsjs_techdegree_project_4/",
+      "github_link": "https://github.com/hinksonAndrew/fsjs_techdegree_project_4",
+      "image_urls": ["/static/img/project3_550x550.png", "/static/img/project3_1200x550.png"]
     },
     {
       "id": 4,
       "project_name": "Public API Requests",
-      "description": "stuff",
-      "technologies": "stuff",
-      "live_link": "link",
-      "github_link": "link",
-      "image_urls": ["./static/img/project4_550x550.png", "link2"]
+      "description": "This is a mock employee directory using filler employee data from the https://randomuser.me/ api to get 12 employees. Clicking on each employee will pull up a modal with more information for each employee.",
+      "technologies": ["JavaScript", "Public API Request", "HTML", "CSS"],
+      "live_link": "https://andrewhinkson.com/fsjs_techdegree_project_5/",
+      "github_link": "https://github.com/hinksonAndrew/fsjs_techdegree_project_5",
+      "image_urls": ["/static/img/project4_550x550.png", "/static/img/project4_1200x550.png"]
     }
 
   ]
