@@ -1,0 +1,14 @@
+extends layout
+
+block content
+  .container
+    h1.error= '500 - Server Error'
+    p Description: #{err.message}
+
+    a.home(href='/') Go Back Home
+
+    if err
+      div
+        hr
+        p Stack Trace:
+        p #{err.stack}

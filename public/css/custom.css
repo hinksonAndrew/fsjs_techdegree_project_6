@@ -1,0 +1,29 @@
+.effect {
+  box-shadow: -3px -3px 10px grey;
+  transition: .5s;
+}
+
+.effect:hover {
+  box-shadow: -6px -6px 20px grey;
+}
+
+.text-shadow {
+  text-shadow: 2px 2px 8px grey;
+}
+
+/* This code from kevinleary.net/pulsating-css3-animations/ */
+.error {
+  -webkit-animation: pulsate 3s ease-out;
+  -webkit-animation-iteration-count: infinite;
+}
+@-webkit-keyframes pulsate {
+  0% {
+    color: grey;
+  }
+  50% {
+    color: red;
+  }
+  100% {
+    color: grey;
+  }
+}

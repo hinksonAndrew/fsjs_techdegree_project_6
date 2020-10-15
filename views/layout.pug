@@ -8,6 +8,7 @@ html(class="no-js" lang="en" dir="ltr")
     link(href='https://fonts.googleapis.com/css?family=Merriweather:300,400,400i,700,800', rel='stylesheet')
     link(rel='stylesheet', href='/static/css/foundation.css')
     link(rel='stylesheet', href='/static/css/style.css')
+    link(rel='stylesheet', href='/static/css/custom.css')
   body
     #my-info.off-canvas.position-left.reveal-for-large.portfolio-me(data-off-canvas='')
       .grid-y.grid-padding-x(style='height: 100%;')
@@ -17,14 +18,11 @@ html(class="no-js" lang="en" dir="ltr")
             img.thumbnail(src='/static/img/profile_pic.jpg')
           .cell.auto
 
-            //- Add your name here.
             h5 Andrew Hinkson
 
-            //- Add text here to describe who you are, what you do, and why you are so awesome.
             p.text-light
-              | Description
+              | I am learning Full Stack Javascript development at Treehouse and I am pretty cool. I started this journey over 10 years ago and know that I am ready for a change. I want to do something I love and programming has always held a special place in my heart. I will continue to learn and grow and one day I will be working for a company that lets me do just that...and pays good, thats pretty important also. 
 
-            //- Add about page route to the href below. 
             a(href='/about') Learn More →
 
     .off-canvas-content(data-off-canvas-content='')
@@ -32,8 +30,7 @@ html(class="no-js" lang="en" dir="ltr")
         .title-bar-left
           button.menu-icon(type='button', data-toggle='my-info')
 
-          //- Add your name here.  This is for the mobile screen sized version.
-          span.title-bar-title Name
+          span.title-bar-title Andrew Hinkson
       block content
         
 
